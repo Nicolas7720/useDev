@@ -36,6 +36,7 @@
 }
 .banner__imagem{
     width: 90%;
+    justify-self: center;
 }
 @media screen and (max-width: 1280px) {
     .banner{
